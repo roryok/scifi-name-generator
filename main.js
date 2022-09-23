@@ -18,7 +18,6 @@ function rnd(min, max)
 }
 
 console.clear();
-
 const consonants = "bcdfghjklmnpqrstvwxyz";
 const nonlatinconsonants = "çņšȚțșśńźСмирнвИКуклЛНМтВьйГгБćĐđčžñ-ıŞÇ";
 const vowels = "aeiou";
